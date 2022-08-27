@@ -34,6 +34,8 @@ public class MaximumNumber
 	            }
 	        }
 	    }
+	
+    //compareTo method for Checking Maximum from 3 Float Object
 	public static Float compareTo(Float d,Float e,Float f) 
 	 {
 	        if(d > e)
@@ -59,7 +61,7 @@ public class MaximumNumber
 	            }
 	        }
 	    }
-    //compareTo method for Checking Maximum from 3 Float Object
+	
 	public static void main(String[] args)
 	{
 		//welcome from user
