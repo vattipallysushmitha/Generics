@@ -1,5 +1,11 @@
 package com.bridzelab.Generics;
 
+/**
+ * Purpose- to find maximum float value
+ * @author sushmitha
+ * @since-27-08-2022
+ */
+
 public class MaximumNumber
 {
 	
