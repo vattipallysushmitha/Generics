@@ -1,4 +1,4 @@
-package com.bridzelab.Generics;
+package com.bridzelab.Refactor1;
 
 public class Refactor1Main
 {

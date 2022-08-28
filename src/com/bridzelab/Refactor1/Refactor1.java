@@ -6,7 +6,7 @@ purpose = Refactor all the 3 to One Generic Method and find the maximum
 * @since-27-08-2022
 */
 
-package com.bridzelab.Generics;
+package com.bridzelab.Refactor1;
 
 public class Refactor1
 {
