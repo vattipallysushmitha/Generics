@@ -1,8 +1,8 @@
-package com.bridzelab.Generics;
+package com.bridzelab.Refactor1;
 
 public class Refactor1Main
 {
-
+    //Creating main method to dispaly given messages
 	public static void main(String[] args) 
     {
 		//welcome  from  user to print the message
