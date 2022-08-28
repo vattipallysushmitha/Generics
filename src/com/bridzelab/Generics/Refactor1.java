@@ -1,7 +1,7 @@
 /*
 purpose = Refactor all the 3 to One Generic Method and find the maximum
-		  Ensure the Generic Type extends Comparable Refactor 1
-		  Make the test case work
+		-Ensure the Generic Type extends Comparable Refactor 1
+		-Make the test case work
 * @author sushmitha
 * @since-27-08-2022
 */
